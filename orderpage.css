@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"); 
+
+body{   
+
+
+    background-color: rgb(24, 26, 27);
+  }
+.logo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 10%; /* Set the width of the logo */
+    height: 20%; /* Set the height of the logo */
+    background-size: contain; /* Make sure the logo is not stretched */
+    background-repeat: no-repeat; /* Prevent the logo from repeating */
+    border-radius: 50%; /* Make the logo circular */
+    z-index: 2;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+  }
+  .fa-user{
+    margin-left: 95%;
+    font-size: 50px;
+    margin-top: 31px;
+  }
+  .orderText{
+    font-size: 50px;
+    text-align: left;
+    margin-top: -64px;
+    color: aliceblue;
+    font-family: 'Poppins';
+    text-shadow:3px 2px 1px rgb(0 0 0 / 50%);
+  }
+  .weLike{
+  
+    font-family: 'Poppins';
+
+    margin-top: 40Spx;
+    color: aliceblue;
+    font-size: 35px;
+}
+
+
+
+.biryani {
+  width: 250px;
+  height: auto;
+  border-radius: 10%;
+  margin-top: -57px;
+  
+  
+}
+  .biryaniName{
+    width: 50%;
+    padding-left: 15px;
+    margin-top: -18px;
+  }
+.biryaniText {
+  width: 50%;
+  padding-left: 25px;
+  margin-top: -130px;}
+ 
+.price{
+  width: 50%;
+  padding-left: 25px;
+  margin-top: 25px;}
+  .momo {
+    width: 250px;
+    height: auto;
+    border-radius: 10%;
+    margin-top: -57px;
+    
+    margin-left: 974px;
+  }
+    .momoName{
+      width: 50%;
+      padding-left: 25px;
+      margin-top: -19px;
+    }
+  .momoText {
+    width: 50%;
+    padding-left: 25px;
+    margin-top: -130px;}
+   
+  .price2{
+    width: 50%;
+    padding-left: 25px;
+    margin-top: -56px;}
+
+   
+
